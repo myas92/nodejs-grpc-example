@@ -1,0 +1,8 @@
+1: link of tutorial
+https://medium.com/trabe/node-js-grpc-services-in-style-222389be991a
+---------------------------------------------------
+2: download bloomrpc
+https://github.com/bloomrpc/bloomrpc/releases
+install .deb for ubuntu
+sudo dpkg -i filename.deb
+--------------------------------------------------
